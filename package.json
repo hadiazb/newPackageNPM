@@ -13,7 +13,15 @@
   "author": "Hugo Andres Diaz Bernal",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadiazb/newPackageNPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hadiazb/newPackageNPM/issues"
+  },
+  "homepage": "https://github.com/hadiazb/newPackageNPM#readme"
 }
